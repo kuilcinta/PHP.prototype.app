@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Madinah, Arab Saudi",
+		"city":"Madinah",
+		"state":"",
+		"state_name":"Arab Saudi",
+		"country":"SD",
+		"country_iso3166":"SA",
+		"zip":"00000",
+		"magic":"1",
+		"wmo":"40430",
+		"latitude":"24.54999924",
+		"longitude":"39.70000076",
+		"elevation":"631.00000000"
+		},
+		"observation_location": {
+		"full":"Madinah, ",
+		"city":"Madinah",
+		"state":"",
+		"country":"SD",
+		"country_iso3166":"SA",
+		"latitude":"24.55342293",
+		"longitude":"39.70506287",
+		"elevation":"2087 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"OEMA",
+		"observation_time":"Last Updated on Desember 18, 6:00 PM AST",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 18:00:00 +0300",
+		"observation_epoch":"1418914800",
+		"local_time_rfc822":"Thu, 18 Dec 2014 18:53:09 +0300",
+		"local_epoch":"1418917989",
+		"local_tz_short":"AST",
+		"local_tz_long":"Asia/Riyadh",
+		"local_tz_offset":"+0300",
+		"weather":"Cerah",
+		"temperature_string":"79 F (26 C)",
+		"temp_f":79,
+		"temp_c":26,
+		"relative_humidity":"24%",
+		"wind_string":"From the WNW at 6 MPH",
+		"wind_dir":"WNW",
+		"wind_degrees":290,
+		"wind_mph":6,
+		"wind_gust_mph":0,
+		"wind_kph":9,
+		"wind_gust_kph":0,
+		"pressure_mb":"1020",
+		"pressure_in":"30.12",
+		"pressure_trend":"-",
+		"dewpoint_string":"39 F (4 C)",
+		"dewpoint_f":39,
+		"dewpoint_c":4,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"79 F (26 C)",
+		"feelslike_f":"79",
+		"feelslike_c":"26",
+		"visibility_mi":"5.0",
+		"visibility_km":"8.0",
+		"solarradiation":"--",
+		"UV":"-1","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
+		"precip_1hr_in":"-9999.00",
+		"precip_1hr_metric":"--",
+		"precip_today_string":"0.00 in (0.0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0.0",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/40430.html",
+		"history_url":"http://www.wunderground.com/history/airport/OEMA/2014/12/18/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=24.55342293,39.70506287",
+		"nowcast":""
+	}
+}

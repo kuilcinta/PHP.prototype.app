@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Tokyo, Jepang",
+		"city":"Tokyo",
+		"state":"",
+		"state_name":"Jepang",
+		"country":"JP",
+		"country_iso3166":"JP",
+		"zip":"00000",
+		"magic":"1",
+		"wmo":"47671",
+		"latitude":"35.54999924",
+		"longitude":"139.77999878",
+		"elevation":"8.00000000"
+		},
+		"observation_location": {
+		"full":"Tokyo, ",
+		"city":"Tokyo",
+		"state":"",
+		"country":"JP",
+		"country_iso3166":"JP",
+		"latitude":"35.55333328",
+		"longitude":"139.78111267",
+		"elevation":"26 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"RJTT",
+		"observation_time":"Last Updated on Desember 19, 12:30 AM JST",
+		"observation_time_rfc822":"Fri, 19 Dec 2014 00:30:00 +0900",
+		"observation_epoch":"1418916600",
+		"local_time_rfc822":"Fri, 19 Dec 2014 00:53:17 +0900",
+		"local_epoch":"1418917997",
+		"local_tz_short":"JST",
+		"local_tz_long":"Asia/Tokyo",
+		"local_tz_offset":"+0900",
+		"weather":"Cerah",
+		"temperature_string":"41 F (5 C)",
+		"temp_f":41,
+		"temp_c":5,
+		"relative_humidity":"33%",
+		"wind_string":"From the NW at 14 MPH",
+		"wind_dir":"NW",
+		"wind_degrees":320,
+		"wind_mph":14,
+		"wind_gust_mph":0,
+		"wind_kph":22,
+		"wind_gust_kph":0,
+		"pressure_mb":"1024",
+		"pressure_in":"30.24",
+		"pressure_trend":"0",
+		"dewpoint_string":"14 F (-10 C)",
+		"dewpoint_f":14,
+		"dewpoint_c":-10,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"34 F (1 C)",
+		"windchill_f":"34",
+		"windchill_c":"1",
+		"feelslike_string":"34 F (1 C)",
+		"feelslike_f":"34",
+		"feelslike_c":"1",
+		"visibility_mi":"N/A",
+		"visibility_km":"N/A",
+		"solarradiation":"--",
+		"UV":"-1","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
+		"precip_1hr_in":"-9999.00",
+		"precip_1hr_metric":"--",
+		"precip_today_string":"0.00 in (0.0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0.0",
+		"icon":"clear",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_clear.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/47671.html",
+		"history_url":"http://www.wunderground.com/history/airport/RJTT/2014/12/19/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=35.55333328,139.78111267",
+		"nowcast":""
+	}
+}

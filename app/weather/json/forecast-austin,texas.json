@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Austin, TX",
+		"city":"Austin",
+		"state":"TX",
+		"state_name":"Texas",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"78701",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"30.27115822",
+		"longitude":"-97.74169922",
+		"elevation":"167.00000000"
+		},
+		"observation_location": {
+		"full":"Thermal Lab Facility, CSD, Austin, Texas",
+		"city":"Thermal Lab Facility, CSD, Austin",
+		"state":"Texas",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"30.285278",
+		"longitude":"-97.741112",
+		"elevation":"600 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KTXAUSTI211",
+		"observation_time":"Last Updated on Desember 18, 9:52 AM CST",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 09:52:10 -0600",
+		"observation_epoch":"1418917930",
+		"local_time_rfc822":"Thu, 18 Dec 2014 09:53:11 -0600",
+		"local_epoch":"1418917991",
+		"local_tz_short":"CST",
+		"local_tz_long":"America/Chicago",
+		"local_tz_offset":"-0600",
+		"weather":"Kabut",
+		"temperature_string":"53.0 F (11.7 C)",
+		"temp_f":53.0,
+		"temp_c":11.7,
+		"relative_humidity":"95%",
+		"wind_string":"Calm",
+		"wind_dir":"Dari Barat ke Baratlaut",
+		"wind_degrees":283,
+		"wind_mph":0.0,
+		"wind_gust_mph":0,
+		"wind_kph":0,
+		"wind_gust_kph":0,
+		"pressure_mb":"1020",
+		"pressure_in":"30.14",
+		"pressure_trend":"+",
+		"dewpoint_string":"52 F (11 C)",
+		"dewpoint_f":52,
+		"dewpoint_c":11,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"53.0 F (11.7 C)",
+		"feelslike_f":"53.0",
+		"feelslike_c":"11.7",
+		"visibility_mi":"1.2",
+		"visibility_km":"2.0",
+		"solarradiation":"91",
+		"UV":"16.0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"fog",
+		"icon_url":"http://icons.wxug.com/i/c/k/fog.gif",
+		"forecast_url":"http://www.wunderground.com/US/TX/Austin.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KTXAUSTI211",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=30.285278,-97.741112",
+		"nowcast":" Through 11 am...patchy light drizzle will continue across\u000Asouth central Texas with little or no measurable rainfall\u000Aexpected. Areas of fog will continue with visibilities generally 1/2\u000Ato 2 miles. Some locations will see visibilities of 1/4 mile\u000Aor less. Motorists should exercise caution and slow down in\u000Aareas of fog as visibilities may drop rapidly."
+	}
+}
