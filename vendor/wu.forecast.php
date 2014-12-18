@@ -1,4 +1,4 @@
-<?php
+<?php if ( ! defined('BASEDIR')) header('Location:404');
 /**
  * WuForecast Class
  * Weather & Forecast using API Wunderground Service
@@ -104,7 +104,6 @@ class WuForecast
 		if( file_exists($stored) AND ( filemtime($stored) < strtotime('now') ) )
 		{
 			unlink($stored);
-			$data = $sw;
 		}
 
 		// Buat file cache baru jika file tidak ditemukan di direktori
@@ -135,6 +134,17 @@ class WuForecast
 		}
 
 		return $data;
+	}
+
+	/**
+	 * _SendToDatabase()
+	 * Fungsi proteksi untuk cache data API ke database
+ 	 * @return Access_CRUD()
+	 */
+	protected function _SendToDatabase()
+	{
+		$data = array();
+		return Access_CRUD($data,'create');
 	}
 
 	/**
