@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kota Bogor, Indonesia",
+		"city":"Kota Bogor",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"2",
+		"wmo":"96753",
+		"latitude":"-6.58972216",
+		"longitude":"106.79138947",
+		"elevation":"241.00000000"
+		},
+		"observation_location": {
+		"full":"ZOBBIS METEO, Jakarta, Indonesia",
+		"city":"ZOBBIS METEO, Jakarta",
+		"state":"Indonesia",
+		"country":"INDONESIA",
+		"country_iso3166":"ID",
+		"latitude":"-6.286300",
+		"longitude":"106.809998",
+		"elevation":"121 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"IJAVAJAK2",
+		"observation_time":"Last Updated on Desember 18, 11:35 PM WIB",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 23:35:59 +0700",
+		"observation_epoch":"1418920559",
+		"local_time_rfc822":"Thu, 18 Dec 2014 23:38:36 +0700",
+		"local_epoch":"1418920716",
+		"local_tz_short":"WIB",
+		"local_tz_long":"Asia/Jakarta",
+		"local_tz_offset":"+0700",
+		"weather":"Pandangan Kabur",
+		"temperature_string":"79.7 F (26.5 C)",
+		"temp_f":79.7,
+		"temp_c":26.5,
+		"relative_humidity":"87%",
+		"wind_string":"Calm",
+		"wind_dir":"Dari Utara ke Timurlaut",
+		"wind_degrees":32,
+		"wind_mph":0.0,
+		"wind_gust_mph":"1.0",
+		"wind_kph":0,
+		"wind_gust_kph":"1.6",
+		"pressure_mb":"1010",
+		"pressure_in":"29.83",
+		"pressure_trend":"-",
+		"dewpoint_string":"76 F (24 C)",
+		"dewpoint_f":76,
+		"dewpoint_c":24,
+		"heat_index_string":"84 F (29 C)",
+		"heat_index_f":84,
+		"heat_index_c":29,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"84 F (29 C)",
+		"feelslike_f":"84",
+		"feelslike_c":"29",
+		"visibility_mi":"N/A",
+		"visibility_km":"N/A",
+		"solarradiation":"--",
+		"UV":"0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.02 in (1 mm)",
+		"precip_today_in":"0.02",
+		"precip_today_metric":"1",
+		"icon":"hazy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_hazy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/96753.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IJAVAJAK2",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-6.286300,106.809998",
+		"nowcast":""
+	}
+}

@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kota Kupang, Indonesia",
+		"city":"Kota Kupang",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"1",
+		"wmo":"97372",
+		"latitude":"-10.17000008",
+		"longitude":"123.66999817",
+		"elevation":"108.00000000"
+		},
+		"observation_location": {
+		"full":"Kupang / El Tari, ",
+		"city":"Kupang / El Tari",
+		"state":"",
+		"country":"Indonesia",
+		"country_iso3166":"ID",
+		"latitude":"-10.16666698",
+		"longitude":"123.66666412",
+		"elevation":"354 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"97372",
+		"observation_time":"Last Updated on Desember 18, 11:00 PM WITA",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 23:00:00 +0800",
+		"observation_epoch":"1418914800",
+		"local_time_rfc822":"Fri, 19 Dec 2014 00:55:08 +0800",
+		"local_epoch":"1418921708",
+		"local_tz_short":"WITA",
+		"local_tz_long":"Asia/Makassar",
+		"local_tz_offset":"+0800",
+		"weather":"Mendung Sebagian",
+		"temperature_string":"80 F (27 C)",
+		"temp_f":80,
+		"temp_c":27,
+		"relative_humidity":"92%",
+		"wind_string":"From the East at 2 MPH",
+		"wind_dir":"East",
+		"wind_degrees":100,
+		"wind_mph":2,
+		"wind_gust_mph":0,
+		"wind_kph":4,
+		"wind_gust_kph":0,
+		"pressure_mb":"1012",
+		"pressure_in":"29.88",
+		"pressure_trend":"+",
+		"dewpoint_string":"78 F (26 C)",
+		"dewpoint_f":78,
+		"dewpoint_c":26,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"80 F (27 C)",
+		"feelslike_f":"80",
+		"feelslike_c":"27",
+		"visibility_mi":"5.0",
+		"visibility_km":"8.0",
+		"solarradiation":"--",
+		"UV":"-1","precip_1hr_string":" in ( mm)",
+		"precip_1hr_in":"",
+		"precip_1hr_metric":"--",
+		"precip_today_string":" in ( mm)",
+		"precip_today_in":"",
+		"precip_today_metric":"--",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/97372.html",
+		"history_url":"http://www.wunderground.com/history/airport/97372/2014/12/18/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-10.16666698,123.66666412",
+		"nowcast":""
+	}
+}

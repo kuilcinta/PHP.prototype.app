@@ -1,0 +1,96 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Gaza, IA",
+		"city":"Gaza",
+		"state":"IA",
+		"state_name":"Iowa",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"51245",
+		"magic":"2",
+		"wmo":"99999",
+		"latitude":"43.08335876",
+		"longitude":"-95.64119720",
+		"elevation":"441.00000000"
+		},
+		"observation_location": {
+		"full":", ",
+		"city":"",
+		"state":"",
+		"country":"",
+		"country_iso3166":"US",
+		"latitude":"",
+		"longitude":"",
+		"elevation":" ft"
+		},
+		"estimated": {
+		"estimated": 1,
+		"description": "These are estimated conditions. There are no weather stations nearby."
+		},
+		"station_id":"",
+		"observation_time":"Last Updated on , ",
+		"observation_time_rfc822":"",
+		"observation_epoch":"",
+		"local_time_rfc822":"Thu, 18 Dec 2014 10:41:01 -0600",
+		"local_epoch":"1418920861",
+		"local_tz_short":"CST",
+		"local_tz_long":"America/Chicago",
+		"local_tz_offset":"-0600",
+		"weather":"Berawan",
+		"temperature_string":"27 F (-2 C)",
+		"temp_f":27,
+		"temp_c":-2,
+		"relative_humidity":"75%",
+		"wind_string":"From the West at 6 MPH Gusting to 9 MPH",
+		"wind_dir":"West",
+		"wind_degrees":159,
+		"wind_mph":6,
+		"wind_gust_mph":"9",
+		"wind_kph":10,
+		"wind_gust_kph":"15",
+		"pressure_mb":"",
+		"pressure_in":"",
+		"pressure_trend":"",
+		"dewpoint_string":"19 F (-6 C)",
+		"dewpoint_f":19,
+		"dewpoint_c":-6,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"21 F (-5 C)",
+		"windchill_f":"21",
+		"windchill_c":"-5",
+		"feelslike_string":"21 F (-5 C)",
+		"feelslike_f":"21",
+		"feelslike_c":"-5",
+		"visibility_mi":"",
+		"visibility_km":"",
+		"solarradiation":"--",
+		"UV":"--","precip_1hr_string":" in ( mm)",
+		"precip_1hr_in":"",
+		"precip_1hr_metric":"--",
+		"precip_today_string":" in ( mm)",
+		"precip_today_in":"",
+		"precip_today_metric":"--",
+		"icon":"cloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/cloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/IA/Gaza.html",
+		"history_url":"http://www.wunderground.com/history/airport/////DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=,",
+		"nowcast":""
+	}
+}

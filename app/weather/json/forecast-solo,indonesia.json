@@ -1,0 +1,33 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+		, "results": [
+		{
+		"name": "Solo",
+		"city": "Solo",
+		"state": "MO",
+		"country": "US",
+		"country_iso3166":"US",
+		"country_name":"Amerika Serikat",
+		"zmw": "65564.1.99999",
+		"l": "/q/zmw:65564.1.99999"
+		}
+		,
+		{
+		"name": "Solo",
+		"city": "Solo",
+		"state": "",
+		"country": "PH",
+		"country_iso3166":"PH",
+		"country_name":"Filipina",
+		"zmw": "00000.95.98432",
+		"l": "/q/zmw:00000.95.98432"
+		}
+		]
+	}
+}

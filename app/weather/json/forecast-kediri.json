@@ -1,0 +1,96 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kota Kediri, Indonesia",
+		"city":"Kota Kediri",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"10",
+		"wmo":"96881",
+		"latitude":"-7.81666708",
+		"longitude":"112.01667023",
+		"elevation":"74.00000000"
+		},
+		"observation_location": {
+		"full":"ADI SUMARMO WIR, ",
+		"city":"ADI SUMARMO WIR",
+		"state":"",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"latitude":"-7.51608896",
+		"longitude":"110.75688934",
+		"elevation":"420 ft"
+		},
+		"estimated": {
+		"estimated": 1,
+		"description": "These are estimated conditions. There are no weather stations nearby."
+		},
+		"station_id":"WARQ",
+		"observation_time":"Last Updated on Desember 18, 2:00 PM WIB",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 14:00:00 +0700",
+		"observation_epoch":"1418886000",
+		"local_time_rfc822":"Thu, 18 Dec 2014 23:53:46 +0700",
+		"local_epoch":"1418921626",
+		"local_tz_short":"WIB",
+		"local_tz_long":"Asia/Jakarta",
+		"local_tz_offset":"+0700",
+		"weather":"Hujan",
+		"temperature_string":"75 F (24 C)",
+		"temp_f":75,
+		"temp_c":24,
+		"relative_humidity":"95%",
+		"wind_string":"From the West at 4 MPH",
+		"wind_dir":"West",
+		"wind_degrees":182,
+		"wind_mph":4,
+		"wind_gust_mph":0,
+		"wind_kph":6,
+		"wind_gust_kph":0,
+		"pressure_mb":"-9999",
+		"pressure_in":"-9999.00",
+		"pressure_trend":"-",
+		"dewpoint_string":"73 F (23 C)",
+		"dewpoint_f":73,
+		"dewpoint_c":23,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"75 F (24 C)",
+		"feelslike_f":"75",
+		"feelslike_c":"24",
+		"visibility_mi":"5.0",
+		"visibility_km":"8.0",
+		"solarradiation":"--",
+		"UV":"8","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
+		"precip_1hr_in":"-9999.00",
+		"precip_1hr_metric":"--",
+		"precip_today_string":"0.00 in (0.0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0.0",
+		"icon":"rain",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_rain.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/96881.html",
+		"history_url":"http://www.wunderground.com/history/airport/WARQ/2014/12/18/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-7.51608896,110.75688934",
+		"nowcast":""
+	}
+}

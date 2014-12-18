@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Djakarta, Indonesia",
+		"city":"Djakarta",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"2",
+		"wmo":"96745",
+		"latitude":"-6.17444420",
+		"longitude":"106.82944489",
+		"elevation":"1.00000000"
+		},
+		"observation_location": {
+		"full":"Jakarta / Observatory, ",
+		"city":"Jakarta / Observatory",
+		"state":"",
+		"country":"Indonesia",
+		"country_iso3166":"ID",
+		"latitude":"-6.18986988",
+		"longitude":"106.83914185",
+		"elevation":"26 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"WIHH",
+		"observation_time":"Last Updated on Desember 18, 10:00 PM WIB",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 22:00:00 +0700",
+		"observation_epoch":"1418914800",
+		"local_time_rfc822":"Thu, 18 Dec 2014 23:38:30 +0700",
+		"local_epoch":"1418920710",
+		"local_tz_short":"WIB",
+		"local_tz_long":"Asia/Jakarta",
+		"local_tz_offset":"+0700",
+		"weather":"Mendung Tidak Merata",
+		"temperature_string":"83 F (29 C)",
+		"temp_f":83,
+		"temp_c":29,
+		"relative_humidity":"73%",
+		"wind_string":"Calm",
+		"wind_dir":"",
+		"wind_degrees":0,
+		"wind_mph":0,
+		"wind_gust_mph":0,
+		"wind_kph":0,
+		"wind_gust_kph":0,
+		"pressure_mb":"1012",
+		"pressure_in":"29.87",
+		"pressure_trend":"+",
+		"dewpoint_string":"76 F (24 C)",
+		"dewpoint_f":76,
+		"dewpoint_c":24,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"83 F (29 C)",
+		"feelslike_f":"83",
+		"feelslike_c":"29",
+		"visibility_mi":"4.0",
+		"visibility_km":"6.0",
+		"solarradiation":"--",
+		"UV":"-1","precip_1hr_string":" in ( mm)",
+		"precip_1hr_in":"",
+		"precip_1hr_metric":"--",
+		"precip_today_string":" in ( mm)",
+		"precip_today_in":"",
+		"precip_today_metric":"--",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/96745.html",
+		"history_url":"http://www.wunderground.com/history/airport/WIHH/2014/12/18/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-6.18986988,106.83914185",
+		"nowcast":""
+	}
+}

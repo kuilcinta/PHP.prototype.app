@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Makasar, Indonesia",
+		"city":"Makasar",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"1",
+		"wmo":"97180",
+		"latitude":"-5.07000017",
+		"longitude":"119.55000305",
+		"elevation":"14.00000000"
+		},
+		"observation_location": {
+		"full":"Makassar, ",
+		"city":"Makassar",
+		"state":"",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"latitude":"-5.06163120",
+		"longitude":"119.55403900",
+		"elevation":"46 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"WAAA",
+		"observation_time":"Last Updated on Desember 19, 12:30 AM WITA",
+		"observation_time_rfc822":"Fri, 19 Dec 2014 00:30:00 +0800",
+		"observation_epoch":"1418920200",
+		"local_time_rfc822":"Fri, 19 Dec 2014 00:57:39 +0800",
+		"local_epoch":"1418921859",
+		"local_tz_short":"WITA",
+		"local_tz_long":"Asia/Makassar",
+		"local_tz_offset":"+0800",
+		"weather":"Mendung Sebagian",
+		"temperature_string":"79 F (26 C)",
+		"temp_f":79,
+		"temp_c":26,
+		"relative_humidity":"94%",
+		"wind_string":"From the East at 4 MPH",
+		"wind_dir":"East",
+		"wind_degrees":80,
+		"wind_mph":4,
+		"wind_gust_mph":0,
+		"wind_kph":6,
+		"wind_gust_kph":0,
+		"pressure_mb":"1010",
+		"pressure_in":"29.83",
+		"pressure_trend":"-",
+		"dewpoint_string":"77 F (25 C)",
+		"dewpoint_f":77,
+		"dewpoint_c":25,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"79 F (26 C)",
+		"feelslike_f":"79",
+		"feelslike_c":"26",
+		"visibility_mi":"5.0",
+		"visibility_km":"8.0",
+		"solarradiation":"--",
+		"UV":"0","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
+		"precip_1hr_in":"-9999.00",
+		"precip_1hr_metric":"--",
+		"precip_today_string":"0.00 in (0.0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0.0",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/97180.html",
+		"history_url":"http://www.wunderground.com/history/airport/WAAA/2014/12/19/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-5.06163120,119.55403900",
+		"nowcast":""
+	}
+}

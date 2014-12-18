@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Kota Surabaya, Indonesia",
+		"city":"Kota Surabaya",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"9",
+		"wmo":"96933",
+		"latitude":"-7.24916601",
+		"longitude":"112.75083160",
+		"elevation":"8.00000000"
+		},
+		"observation_location": {
+		"full":"Juanda, ",
+		"city":"Juanda",
+		"state":"",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"latitude":"-7.37983084",
+		"longitude":"112.78685760",
+		"elevation":"10 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"WARR",
+		"observation_time":"Last Updated on Desember 18, 11:30 PM WIB",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 23:30:00 +0700",
+		"observation_epoch":"1418920200",
+		"local_time_rfc822":"Thu, 18 Dec 2014 23:53:40 +0700",
+		"local_epoch":"1418921620",
+		"local_tz_short":"WIB",
+		"local_tz_long":"Asia/Jakarta",
+		"local_tz_offset":"+0700",
+		"weather":"Mendung Sebagian",
+		"temperature_string":"77 F (25 C)",
+		"temp_f":77,
+		"temp_c":25,
+		"relative_humidity":"89%",
+		"wind_string":"From the Variable at 2 MPH",
+		"wind_dir":"Variable",
+		"wind_degrees":0,
+		"wind_mph":2,
+		"wind_gust_mph":0,
+		"wind_kph":4,
+		"wind_gust_kph":0,
+		"pressure_mb":"1010",
+		"pressure_in":"29.83",
+		"pressure_trend":"0",
+		"dewpoint_string":"73 F (23 C)",
+		"dewpoint_f":73,
+		"dewpoint_c":23,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"77 F (25 C)",
+		"feelslike_f":"77",
+		"feelslike_c":"25",
+		"visibility_mi":"3.7",
+		"visibility_km":"6.0",
+		"solarradiation":"--",
+		"UV":"0","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
+		"precip_1hr_in":"-9999.00",
+		"precip_1hr_metric":"--",
+		"precip_today_string":"0.00 in (0.0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0.0",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/96933.html",
+		"history_url":"http://www.wunderground.com/history/airport/WARR/2014/12/18/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-7.37983084,112.78685760",
+		"nowcast":""
+	}
+}

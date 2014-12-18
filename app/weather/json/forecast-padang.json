@@ -1,0 +1,33 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+		, "results": [
+		{
+		"name": "Kota Padang",
+		"city": "Kota Padang",
+		"state": "",
+		"country": "ID",
+		"country_iso3166":"ID",
+		"country_name":"Indonesia",
+		"zmw": "00000.1.96163",
+		"l": "/q/zmw:00000.1.96163"
+		}
+		,
+		{
+		"name": "Padang",
+		"city": "Padang",
+		"state": "",
+		"country": "PH",
+		"country_iso3166":"PH",
+		"country_name":"Filipina",
+		"zmw": "00000.81.98444",
+		"l": "/q/zmw:00000.81.98444"
+		}
+		]
+	}
+}

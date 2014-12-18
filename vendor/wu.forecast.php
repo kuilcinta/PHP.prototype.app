@@ -72,7 +72,11 @@ class WuForecast
 			// Jika ditemukan error pada response json_decode maka di return ke teks error
 			if( isset($decode['response']['error']) )
 			{
-				return $decode['response']['error']['description'];
+				throw new WuForecastException($decode['response']['error']['description']);
+			}
+			elseif( isset($decode['response']['results']) )
+			{
+				throw new WuForecastException(self::ERROR_MSG);
 			}
 			else
 			{
@@ -162,4 +166,6 @@ class WuForecast
 	}
 }
 
+/** Define Exception Extends Class */
+class WuForecastException extends Exception{}
 ?>

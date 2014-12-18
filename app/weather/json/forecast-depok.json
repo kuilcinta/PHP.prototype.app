@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Depok, Indonesia",
+		"city":"Depok",
+		"state":"",
+		"state_name":"Indonesia",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"zip":"00000",
+		"magic":"3",
+		"wmo":"96853",
+		"latitude":"-7.76249981",
+		"longitude":"110.43166351",
+		"elevation":"154.00000000"
+		},
+		"observation_location": {
+		"full":"ACHMAD YANI, ",
+		"city":"ACHMAD YANI",
+		"state":"",
+		"country":"ID",
+		"country_iso3166":"ID",
+		"latitude":"-6.97273016",
+		"longitude":"110.37500000",
+		"elevation":"10 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"WARS",
+		"observation_time":"Last Updated on Desember 18, 11:00 PM WIB",
+		"observation_time_rfc822":"Thu, 18 Dec 2014 23:00:00 +0700",
+		"observation_epoch":"1418918400",
+		"local_time_rfc822":"Thu, 18 Dec 2014 23:39:02 +0700",
+		"local_epoch":"1418920742",
+		"local_tz_short":"WIB",
+		"local_tz_long":"Asia/Jakarta",
+		"local_tz_offset":"+0700",
+		"weather":"Hujan Ringan",
+		"temperature_string":"81 F (27 C)",
+		"temp_f":81,
+		"temp_c":27,
+		"relative_humidity":"94%",
+		"wind_string":"Calm",
+		"wind_dir":"North",
+		"wind_degrees":0,
+		"wind_mph":0,
+		"wind_gust_mph":0,
+		"wind_kph":0,
+		"wind_gust_kph":0,
+		"pressure_mb":"1011",
+		"pressure_in":"29.86",
+		"pressure_trend":"0",
+		"dewpoint_string":"79 F (26 C)",
+		"dewpoint_f":79,
+		"dewpoint_c":26,
+		"heat_index_string":"88 F (31 C)",
+		"heat_index_f":88,
+		"heat_index_c":31,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"88 F (31 C)",
+		"feelslike_f":"88",
+		"feelslike_c":"31",
+		"visibility_mi":"4.3",
+		"visibility_km":"7.0",
+		"solarradiation":"--",
+		"UV":"0","precip_1hr_string":"-9999.00 in (-9999.00 mm)",
+		"precip_1hr_in":"-9999.00",
+		"precip_1hr_metric":"--",
+		"precip_today_string":"0.00 in (0.0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0.0",
+		"icon":"rain",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_rain.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/96853.html",
+		"history_url":"http://www.wunderground.com/history/airport/WARS/2014/12/18/DailyHistory.html",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-6.97273016,110.37500000",
+		"nowcast":""
+	}
+}
