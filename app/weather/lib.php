@@ -14,7 +14,7 @@ require_once(BASEDIR.'/../../loader.php');
 
 $libs = array(	'arrayobj',
 				'curl',
-				'forecast',
+				'wu.forecast',
 				'colortemp',
 				'daynight.io'
 			);
